@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Mic
 
-<!--
-**hafljin/hafljin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Android engineer (mobile development specialist)
+- 🤖 AI × Automation expert
+- 🧑‍💼 Tech stack: Kotlin / TypeScript / Python / Cloud / Automation / OSS
 
-Here are some ideas to get you started:
+## 📫 Contact
+- X: [@gonzaless1024](https://x.com/gonzaless1024)
+- Email: mitsuru.donrichy@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Recent Projects
+
+[ai-fullstack-lab](https://github.com/hafljin/ai-fullstack-lab): A lab for experiments leveraging cutting-edge AI technologies in fullstack development.  
+[mobileDevelopersRoad](https://github.com/hafljin/mobileDevelopersRoad): Share ideas and roadmaps for mobile engineers.
+
+---
+
+*Enabling a smarter world through technology. Open for collaboration!*
+
+> *Note: Only the two most recently updated out of 40 repositories are listed. You can see more projects here:*  
+[View More Repositories](https://github.com/hafljin?tab=repositories&q=&type=public&sort=updated)
