@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mic
 
 - 💻 Android engineer (mobile development specialist)
-- 🤖 AI × Automation expert
-- 🧑‍💼 Tech stack: Kotlin / TypeScript / Python / Cloud / Automation / OSS
+- 🤖 Web Full Stack Developer
+- 🧑‍💼 Tech stack: Kotlin / Java / React / TypeScript / Python / Cloud / Automation / OSS
 
 ## 📫 Contact
 - X: [@gonzaless1024](https://x.com/gonzaless1024)
